@@ -1,0 +1,7 @@
+class,training_count,calculated_weight
+Bird-drop,125,0.9267
+Clean,149,0.7774
+Dusty,144,0.8044
+Electrical-damage,78,1.485
+Physical-Damage,67,1.7289
+Snow-Covered,132,0.8775
