@@ -1,0 +1,24 @@
+{
+  "selected_model": "YOLOv8-Classification",
+  "model_type": "ultralytics",
+  "arch": "YOLOv8-Classification",
+  "class_names": [
+    "Bird-drop",
+    "Clean",
+    "Dusty",
+    "Electrical-damage",
+    "Physical-Damage",
+    "Snow-Covered"
+  ],
+  "img_size": 224,
+  "dataset_name": "PV Panel Defect Dataset",
+  "dataset_creator": "Alicja Lenarczyk",
+  "dataset_url": "https://www.kaggle.com/datasets/alicjalena/pv-panel-defect-dataset",
+  "dataset_licence": "CC BY-NC-SA 4.0",
+  "raw_image_count_observed": 1574,
+  "unique_valid_image_count": 869,
+  "training_image_count": 695,
+  "validation_image_count": 87,
+  "test_image_count": 87,
+  "research_scope": "Academic, non-commercial RGB image-classification prototype"
+}
